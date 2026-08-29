@@ -1,4 +1,10 @@
-# Pastel
+<p align="center">
+  <img src="assets/pastel-logo.png" alt="Pastel logo" width="180">
+</p>
+
+<h1 align="center">Pastel</h1>
+
+<p align="center"><strong>The missing Windows clipboard manager.</strong></p>
 
 A clipboard manager for Windows, in the spirit of Pasta on macOS — with a
 calm, dark, single-accent design. Fully native WPF — a single ~90 KB EXE, no
