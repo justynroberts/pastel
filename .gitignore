@@ -1,0 +1,14 @@
+# Build outputs
+Pastel.exe
+dist/
+
+# Local tooling and editor state
+.claude/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Windows noise
+Thumbs.db
+Desktop.ini
